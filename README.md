@@ -1,6 +1,6 @@
 # Hack-Assembler
 Hack assembler for the 6th Nand2Tetris project, implemented in Python.
-Main file is assembler, bincode and binparser are modules.
+Main file is assembler.py, using the bincode.py and binparser.py modules.
 
 Assembler takes in an .asm file and outputs a .hack file.
 Basically, it takes the machine language written in the input file and converts it into binary code for the computer.
